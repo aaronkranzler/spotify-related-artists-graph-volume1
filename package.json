@@ -1,0 +1,26 @@
+{
+  "name": "btoa",
+  "version": "1.2.1",
+  "description": "Spotify related artists graph volume 1",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaronkranzler/spotify-related-artists-graph-volume1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aaronkranzler/spotify-related-artists-graph-volume1/issues"
+  },
+  "homepage": "https://github.com/aaronkranzler/spotify-related-artists-graph-volume1#readme",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "btoa": "^1.2.1",
+    "dotenv": "^6.0.0",
+    "express": "^4.16.3"
+  },
+  "devDependencies": {}
+}
